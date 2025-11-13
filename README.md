@@ -1,2 +1,2 @@
 # Goodbye-Guy
-Skyrim AE Mod to Clean Body Interactions in Skyrim
+Skyrim AE Mod to clean up dead bodies and their interactions. 
